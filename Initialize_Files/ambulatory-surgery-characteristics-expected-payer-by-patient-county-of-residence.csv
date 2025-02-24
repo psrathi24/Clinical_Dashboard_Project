@@ -1,0 +1,1015 @@
+patcnty1,serv_y,payer1,Encounters
+Alameda,2023,Blue Cross/Blue Shield,411
+Alameda,2023,CHAMPUS (TRICARE),163
+Alameda,2023,Commercial Insurance Company,7029
+Alameda,2023,Exclusive Provider Organization (EPO),2058
+Alameda,2023,Health Maintenance Organization,28012
+Alameda,2023,Health Maintenance Organization (HMO) Medicare Risk,16547
+Alameda,2023,Invalid/Blank,2
+Alameda,2023,Medi-Cal,13628
+Alameda,2023,Medicare Part A,1
+Alameda,2023,Medicare Part B,15327
+Alameda,2023,Other,79
+Alameda,2023,Other Federal Program,24
+Alameda,2023,Other Non-federal Programs,1703
+Alameda,2023,Point of Service (POS),599
+Alameda,2023,Preferred Provider Organization (PPO),12960
+Alameda,2023,Self Pay,791
+Alameda,2023,Title V,4
+Alameda,2023,Veterans Affairs Plan,15
+Alameda,2023,Workers' Compensation Health Claim,460
+Alpine,2023,Blue Cross/Blue Shield,5
+Alpine,2023,CHAMPUS (TRICARE),1
+Alpine,2023,Commercial Insurance Company,4
+Alpine,2023,Health Maintenance Organization (HMO) Medicare Risk,2
+Alpine,2023,Medi-Cal,12
+Alpine,2023,Medicare Part B,12
+Alpine,2023,Preferred Provider Organization (PPO),3
+Alpine,2023,Workers' Compensation Health Claim,1
+Amador,2023,Blue Cross/Blue Shield,83
+Amador,2023,CHAMPUS (TRICARE),18
+Amador,2023,Commercial Insurance Company,27
+Amador,2023,Exclusive Provider Organization (EPO),4
+Amador,2023,Health Maintenance Organization,357
+Amador,2023,Health Maintenance Organization (HMO) Medicare Risk,426
+Amador,2023,Medi-Cal,451
+Amador,2023,Medicare Part B,1407
+Amador,2023,Other,1
+Amador,2023,Other Federal Program,63
+Amador,2023,Other Non-federal Programs,317
+Amador,2023,Point of Service (POS),1
+Amador,2023,Preferred Provider Organization (PPO),589
+Amador,2023,Self Pay,8
+Amador,2023,Veterans Affairs Plan,7
+Amador,2023,Workers' Compensation Health Claim,44
+Butte,2023,Blue Cross/Blue Shield,5493
+Butte,2023,CHAMPUS (TRICARE),40
+Butte,2023,Commercial Insurance Company,473
+Butte,2023,Exclusive Provider Organization (EPO),11
+Butte,2023,Health Maintenance Organization,82
+Butte,2023,Health Maintenance Organization (HMO) Medicare Risk,1526
+Butte,2023,Medi-Cal,4189
+Butte,2023,Medicare Part B,9387
+Butte,2023,Other,10
+Butte,2023,Other Federal Program,7
+Butte,2023,Other Non-federal Programs,21
+Butte,2023,Point of Service (POS),5
+Butte,2023,Preferred Provider Organization (PPO),1048
+Butte,2023,Self Pay,55
+Butte,2023,Title V,1
+Butte,2023,Veterans Affairs Plan,213
+Butte,2023,Workers' Compensation Health Claim,134
+Calaveras,2023,Automobile Medical,3
+Calaveras,2023,Blue Cross/Blue Shield,73
+Calaveras,2023,CHAMPUS (TRICARE),21
+Calaveras,2023,Commercial Insurance Company,40
+Calaveras,2023,Exclusive Provider Organization (EPO),13
+Calaveras,2023,Health Maintenance Organization,594
+Calaveras,2023,Health Maintenance Organization (HMO) Medicare Risk,253
+Calaveras,2023,Invalid/Blank,1
+Calaveras,2023,Medi-Cal,771
+Calaveras,2023,Medicare Part B,2831
+Calaveras,2023,Other,3
+Calaveras,2023,Other Federal Program,20
+Calaveras,2023,Other Non-federal Programs,5
+Calaveras,2023,Point of Service (POS),6
+Calaveras,2023,Preferred Provider Organization (PPO),961
+Calaveras,2023,Self Pay,19
+Calaveras,2023,Veterans Affairs Plan,33
+Calaveras,2023,Workers' Compensation Health Claim,71
+Colusa,2023,Blue Cross/Blue Shield,185
+Colusa,2023,CHAMPUS (TRICARE),2
+Colusa,2023,Commercial Insurance Company,84
+Colusa,2023,Exclusive Provider Organization (EPO),2
+Colusa,2023,Health Maintenance Organization,77
+Colusa,2023,Health Maintenance Organization (HMO) Medicare Risk,60
+Colusa,2023,Medi-Cal,440
+Colusa,2023,Medicare Part B,671
+Colusa,2023,Other Federal Program,1
+Colusa,2023,Other Non-federal Programs,4
+Colusa,2023,Point of Service (POS),1
+Colusa,2023,Preferred Provider Organization (PPO),170
+Colusa,2023,Self Pay,6
+Colusa,2023,Title V,1
+Colusa,2023,Veterans Affairs Plan,5
+Colusa,2023,Workers' Compensation Health Claim,38
+Contra Costa,2023,Blue Cross/Blue Shield,170
+Contra Costa,2023,CHAMPUS (TRICARE),141
+Contra Costa,2023,Commercial Insurance Company,1335
+Contra Costa,2023,Exclusive Provider Organization (EPO),898
+Contra Costa,2023,Health Maintenance Organization,15143
+Contra Costa,2023,Health Maintenance Organization (HMO) Medicare Risk,11544
+Contra Costa,2023,Invalid/Blank,1
+Contra Costa,2023,Medi-Cal,7148
+Contra Costa,2023,Medicare Part A,1
+Contra Costa,2023,Medicare Part B,10227
+Contra Costa,2023,Other,43
+Contra Costa,2023,Other Federal Program,7
+Contra Costa,2023,Other Non-federal Programs,525
+Contra Costa,2023,Point of Service (POS),463
+Contra Costa,2023,Preferred Provider Organization (PPO),10028
+Contra Costa,2023,Self Pay,429
+Contra Costa,2023,Title V,2
+Contra Costa,2023,Veterans Affairs Plan,24
+Contra Costa,2023,Workers' Compensation Health Claim,312
+Del Norte,2023,Automobile Medical,1
+Del Norte,2023,Blue Cross/Blue Shield,7
+Del Norte,2023,CHAMPUS (TRICARE),2
+Del Norte,2023,Commercial Insurance Company,5
+Del Norte,2023,Health Maintenance Organization,6
+Del Norte,2023,Health Maintenance Organization (HMO) Medicare Risk,23
+Del Norte,2023,Invalid/Blank,1
+Del Norte,2023,Medi-Cal,624
+Del Norte,2023,Medicare Part B,641
+Del Norte,2023,Other Federal Program,8
+Del Norte,2023,Other Non-federal Programs,84
+Del Norte,2023,Point of Service (POS),3
+Del Norte,2023,Preferred Provider Organization (PPO),273
+Del Norte,2023,Self Pay,11
+Del Norte,2023,Veterans Affairs Plan,36
+Del Norte,2023,Workers' Compensation Health Claim,29
+El Dorado,2023,Blue Cross/Blue Shield,1011
+El Dorado,2023,CHAMPUS (TRICARE),103
+El Dorado,2023,Commercial Insurance Company,676
+El Dorado,2023,Exclusive Provider Organization (EPO),36
+El Dorado,2023,Health Maintenance Organization,1889
+El Dorado,2023,Health Maintenance Organization (HMO) Medicare Risk,2869
+El Dorado,2023,Invalid/Blank,3
+El Dorado,2023,Medi-Cal,2702
+El Dorado,2023,Medicare Part B,4582
+El Dorado,2023,Other,5
+El Dorado,2023,Other Non-federal Programs,23
+El Dorado,2023,Point of Service (POS),8
+El Dorado,2023,Preferred Provider Organization (PPO),2806
+El Dorado,2023,Self Pay,65
+El Dorado,2023,Title V,1
+El Dorado,2023,Veterans Affairs Plan,41
+El Dorado,2023,Workers' Compensation Health Claim,145
+Fresno,2023,Automobile Medical,4
+Fresno,2023,Blue Cross/Blue Shield,2446
+Fresno,2023,CHAMPUS (TRICARE),486
+Fresno,2023,Commercial Insurance Company,1282
+Fresno,2023,Exclusive Provider Organization (EPO),295
+Fresno,2023,Health Maintenance Organization,8110
+Fresno,2023,Health Maintenance Organization (HMO) Medicare Risk,11555
+Fresno,2023,Medi-Cal,24288
+Fresno,2023,Medicare Part B,14426
+Fresno,2023,Other,62
+Fresno,2023,Other Federal Program,352
+Fresno,2023,Other Non-federal Programs,306
+Fresno,2023,Point of Service (POS),305
+Fresno,2023,Preferred Provider Organization (PPO),11760
+Fresno,2023,Self Pay,396
+Fresno,2023,Title V,617
+Fresno,2023,Veterans Affairs Plan,93
+Fresno,2023,Workers' Compensation Health Claim,1319
+Glenn,2023,Blue Cross/Blue Shield,702
+Glenn,2023,CHAMPUS (TRICARE),3
+Glenn,2023,Commercial Insurance Company,14
+Glenn,2023,Exclusive Provider Organization (EPO),2
+Glenn,2023,Health Maintenance Organization,15
+Glenn,2023,Health Maintenance Organization (HMO) Medicare Risk,101
+Glenn,2023,Invalid/Blank,1
+Glenn,2023,Medi-Cal,680
+Glenn,2023,Medicare Part B,1084
+Glenn,2023,Other,2
+Glenn,2023,Other Non-federal Programs,5
+Glenn,2023,Preferred Provider Organization (PPO),131
+Glenn,2023,Self Pay,6
+Glenn,2023,Veterans Affairs Plan,18
+Glenn,2023,Workers' Compensation Health Claim,39
+Humboldt,2023,Automobile Medical,1
+Humboldt,2023,Blue Cross/Blue Shield,37
+Humboldt,2023,CHAMPUS (TRICARE),157
+Humboldt,2023,Commercial Insurance Company,91
+Humboldt,2023,Exclusive Provider Organization (EPO),78
+Humboldt,2023,Health Maintenance Organization,469
+Humboldt,2023,Health Maintenance Organization (HMO) Medicare Risk,660
+Humboldt,2023,Invalid/Blank,2
+Humboldt,2023,Medi-Cal,3733
+Humboldt,2023,Medicare Part B,5885
+Humboldt,2023,Other,15
+Humboldt,2023,Other Federal Program,7
+Humboldt,2023,Other Non-federal Programs,57
+Humboldt,2023,Point of Service (POS),103
+Humboldt,2023,Preferred Provider Organization (PPO),3706
+Humboldt,2023,Self Pay,66
+Humboldt,2023,Veterans Affairs Plan,258
+Humboldt,2023,Workers' Compensation Health Claim,134
+Imperial,2023,Blue Cross/Blue Shield,897
+Imperial,2023,CHAMPUS (TRICARE),90
+Imperial,2023,Commercial Insurance Company,153
+Imperial,2023,Exclusive Provider Organization (EPO),11
+Imperial,2023,Health Maintenance Organization,1939
+Imperial,2023,Health Maintenance Organization (HMO) Medicare Risk,1403
+Imperial,2023,Medi-Cal,2453
+Imperial,2023,Medicare Part B,3752
+Imperial,2023,Other,3
+Imperial,2023,Other Federal Program,30
+Imperial,2023,Other Non-federal Programs,95
+Imperial,2023,Point of Service (POS),14
+Imperial,2023,Preferred Provider Organization (PPO),1314
+Imperial,2023,Self Pay,48
+Imperial,2023,Title V,186
+Imperial,2023,Veterans Affairs Plan,23
+Imperial,2023,Workers' Compensation Health Claim,112
+Invalid/Blank,2023,Blue Cross/Blue Shield,1799
+Invalid/Blank,2023,CHAMPUS (TRICARE),37
+Invalid/Blank,2023,Commercial Insurance Company,188
+Invalid/Blank,2023,Health Maintenance Organization,433
+Invalid/Blank,2023,Health Maintenance Organization (HMO) Medicare Risk,67
+Invalid/Blank,2023,Medi-Cal,1377
+Invalid/Blank,2023,Medicare Part B,3534
+Invalid/Blank,2023,Other,38
+Invalid/Blank,2023,Other Federal Program,217
+Invalid/Blank,2023,Other Non-federal Programs,26
+Invalid/Blank,2023,Point of Service (POS),1
+Invalid/Blank,2023,Preferred Provider Organization (PPO),200
+Invalid/Blank,2023,Self Pay,44
+Invalid/Blank,2023,Veterans Affairs Plan,2
+Invalid/Blank,2023,Workers' Compensation Health Claim,72
+Inyo,2023,Blue Cross/Blue Shield,211
+Inyo,2023,CHAMPUS (TRICARE),1
+Inyo,2023,Commercial Insurance Company,87
+Inyo,2023,Exclusive Provider Organization (EPO),2
+Inyo,2023,Health Maintenance Organization,13
+Inyo,2023,Health Maintenance Organization (HMO) Medicare Risk,4
+Inyo,2023,Medi-Cal,279
+Inyo,2023,Medicare Part B,743
+Inyo,2023,Other,4
+Inyo,2023,Other Federal Program,15
+Inyo,2023,Other Non-federal Programs,1
+Inyo,2023,Point of Service (POS),1
+Inyo,2023,Preferred Provider Organization (PPO),442
+Inyo,2023,Self Pay,6
+Inyo,2023,Title V,4
+Inyo,2023,Veterans Affairs Plan,1
+Inyo,2023,Workers' Compensation Health Claim,43
+Kern,2023,Automobile Medical,1
+Kern,2023,Blue Cross/Blue Shield,1566
+Kern,2023,CHAMPUS (TRICARE),344
+Kern,2023,Commercial Insurance Company,543
+Kern,2023,Exclusive Provider Organization (EPO),36
+Kern,2023,Health Maintenance Organization,4695
+Kern,2023,Health Maintenance Organization (HMO) Medicare Risk,6145
+Kern,2023,Medi-Cal,17461
+Kern,2023,Medicare Part A,1
+Kern,2023,Medicare Part B,8744
+Kern,2023,Other,76
+Kern,2023,Other Federal Program,185
+Kern,2023,Other Non-federal Programs,725
+Kern,2023,Point of Service (POS),41
+Kern,2023,Preferred Provider Organization (PPO),6408
+Kern,2023,Self Pay,262
+Kern,2023,Title V,298
+Kern,2023,Veterans Affairs Plan,342
+Kern,2023,Workers' Compensation Health Claim,501
+Kings,2023,Blue Cross/Blue Shield,172
+Kings,2023,CHAMPUS (TRICARE),479
+Kings,2023,Commercial Insurance Company,189
+Kings,2023,Exclusive Provider Organization (EPO),12
+Kings,2023,Health Maintenance Organization,912
+Kings,2023,Health Maintenance Organization (HMO) Medicare Risk,653
+Kings,2023,Invalid/Blank,1
+Kings,2023,Medi-Cal,2629
+Kings,2023,Medicare Part B,1757
+Kings,2023,Other,18
+Kings,2023,Other Federal Program,90
+Kings,2023,Other Non-federal Programs,747
+Kings,2023,Point of Service (POS),28
+Kings,2023,Preferred Provider Organization (PPO),2104
+Kings,2023,Self Pay,64
+Kings,2023,Title V,79
+Kings,2023,Veterans Affairs Plan,25
+Kings,2023,Workers' Compensation Health Claim,253
+Lake,2023,Blue Cross/Blue Shield,24
+Lake,2023,CHAMPUS (TRICARE),10
+Lake,2023,Commercial Insurance Company,51
+Lake,2023,Exclusive Provider Organization (EPO),7
+Lake,2023,Health Maintenance Organization,273
+Lake,2023,Health Maintenance Organization (HMO) Medicare Risk,394
+Lake,2023,Medi-Cal,2266
+Lake,2023,Medicare Part B,3399
+Lake,2023,Other,5
+Lake,2023,Other Federal Program,2
+Lake,2023,Other Non-federal Programs,7
+Lake,2023,Point of Service (POS),4
+Lake,2023,Preferred Provider Organization (PPO),1619
+Lake,2023,Self Pay,36
+Lake,2023,Title V,3
+Lake,2023,Veterans Affairs Plan,215
+Lake,2023,Workers' Compensation Health Claim,40
+Lassen,2023,Blue Cross/Blue Shield,103
+Lassen,2023,CHAMPUS (TRICARE),24
+Lassen,2023,Commercial Insurance Company,14
+Lassen,2023,Exclusive Provider Organization (EPO),1
+Lassen,2023,Health Maintenance Organization,93
+Lassen,2023,Health Maintenance Organization (HMO) Medicare Risk,19
+Lassen,2023,Medi-Cal,253
+Lassen,2023,Medicare Part B,367
+Lassen,2023,Other,1
+Lassen,2023,Other Federal Program,4
+Lassen,2023,Other Non-federal Programs,65
+Lassen,2023,Preferred Provider Organization (PPO),73
+Lassen,2023,Self Pay,2
+Lassen,2023,Veterans Affairs Plan,1
+Lassen,2023,Workers' Compensation Health Claim,48
+Los Angeles,2023,Automobile Medical,2
+Los Angeles,2023,Blue Cross/Blue Shield,9049
+Los Angeles,2023,CHAMPUS (TRICARE),1284
+Los Angeles,2023,Commercial Insurance Company,9985
+Los Angeles,2023,Exclusive Provider Organization (EPO),3297
+Los Angeles,2023,Health Maintenance Organization,125461
+Los Angeles,2023,Health Maintenance Organization (HMO) Medicare Risk,87640
+Los Angeles,2023,Invalid/Blank,62
+Los Angeles,2023,Medi-Cal,92486
+Los Angeles,2023,Medicare Part A,4
+Los Angeles,2023,Medicare Part B,82385
+Los Angeles,2023,Other,548
+Los Angeles,2023,Other Federal Program,255
+Los Angeles,2023,Other Non-federal Programs,4252
+Los Angeles,2023,Point of Service (POS),4545
+Los Angeles,2023,Preferred Provider Organization (PPO),71282
+Los Angeles,2023,Self Pay,2179
+Los Angeles,2023,Title V,353
+Los Angeles,2023,Veterans Affairs Plan,187
+Los Angeles,2023,Workers' Compensation Health Claim,2963
+Madera,2023,Automobile Medical,1
+Madera,2023,Blue Cross/Blue Shield,444
+Madera,2023,CHAMPUS (TRICARE),70
+Madera,2023,Commercial Insurance Company,190
+Madera,2023,Exclusive Provider Organization (EPO),30
+Madera,2023,Health Maintenance Organization,1278
+Madera,2023,Health Maintenance Organization (HMO) Medicare Risk,1773
+Madera,2023,Medi-Cal,3006
+Madera,2023,Medicare Part B,2226
+Madera,2023,Other,15
+Madera,2023,Other Federal Program,112
+Madera,2023,Other Non-federal Programs,210
+Madera,2023,Point of Service (POS),29
+Madera,2023,Preferred Provider Organization (PPO),1565
+Madera,2023,Self Pay,59
+Madera,2023,Title V,117
+Madera,2023,Veterans Affairs Plan,26
+Madera,2023,Workers' Compensation Health Claim,183
+Marin,2023,Blue Cross/Blue Shield,62
+Marin,2023,CHAMPUS (TRICARE),44
+Marin,2023,Commercial Insurance Company,582
+Marin,2023,Exclusive Provider Organization (EPO),229
+Marin,2023,Health Maintenance Organization,2547
+Marin,2023,Health Maintenance Organization (HMO) Medicare Risk,3175
+Marin,2023,Invalid/Blank,1
+Marin,2023,Medi-Cal,2275
+Marin,2023,Medicare Part B,5472
+Marin,2023,Other,13
+Marin,2023,Other Federal Program,89
+Marin,2023,Other Non-federal Programs,190
+Marin,2023,Point of Service (POS),288
+Marin,2023,Preferred Provider Organization (PPO),3949
+Marin,2023,Self Pay,258
+Marin,2023,Title V,1
+Marin,2023,Veterans Affairs Plan,1
+Marin,2023,Workers' Compensation Health Claim,75
+Mariposa,2023,Blue Cross/Blue Shield,90
+Mariposa,2023,CHAMPUS (TRICARE),20
+Mariposa,2023,Commercial Insurance Company,29
+Mariposa,2023,Exclusive Provider Organization (EPO),4
+Mariposa,2023,Health Maintenance Organization,86
+Mariposa,2023,Health Maintenance Organization (HMO) Medicare Risk,89
+Mariposa,2023,Medi-Cal,208
+Mariposa,2023,Medicare Part B,700
+Mariposa,2023,Other,2
+Mariposa,2023,Other Federal Program,1
+Mariposa,2023,Point of Service (POS),2
+Mariposa,2023,Preferred Provider Organization (PPO),221
+Mariposa,2023,Self Pay,10
+Mariposa,2023,Title V,5
+Mariposa,2023,Veterans Affairs Plan,14
+Mariposa,2023,Workers' Compensation Health Claim,19
+Mendocino,2023,Automobile Medical,4
+Mendocino,2023,Blue Cross/Blue Shield,43
+Mendocino,2023,CHAMPUS (TRICARE),13
+Mendocino,2023,Commercial Insurance Company,99
+Mendocino,2023,Exclusive Provider Organization (EPO),16
+Mendocino,2023,Health Maintenance Organization,303
+Mendocino,2023,Health Maintenance Organization (HMO) Medicare Risk,467
+Mendocino,2023,Medi-Cal,2299
+Mendocino,2023,Medicare Part B,4506
+Mendocino,2023,Other,11
+Mendocino,2023,Other Federal Program,10
+Mendocino,2023,Other Non-federal Programs,10
+Mendocino,2023,Point of Service (POS),13
+Mendocino,2023,Preferred Provider Organization (PPO),2385
+Mendocino,2023,Self Pay,59
+Mendocino,2023,Title V,1
+Mendocino,2023,Veterans Affairs Plan,136
+Mendocino,2023,Workers' Compensation Health Claim,55
+Merced,2023,Blue Cross/Blue Shield,1415
+Merced,2023,CHAMPUS (TRICARE),68
+Merced,2023,Commercial Insurance Company,171
+Merced,2023,Exclusive Provider Organization (EPO),281
+Merced,2023,Health Maintenance Organization,1160
+Merced,2023,Health Maintenance Organization (HMO) Medicare Risk,1152
+Merced,2023,Invalid/Blank,8
+Merced,2023,Medi-Cal,6003
+Merced,2023,Medicare Part B,4739
+Merced,2023,Other,11
+Merced,2023,Other Federal Program,14
+Merced,2023,Other Non-federal Programs,19
+Merced,2023,Point of Service (POS),78
+Merced,2023,Preferred Provider Organization (PPO),3654
+Merced,2023,Self Pay,67
+Merced,2023,Title V,3
+Merced,2023,Veterans Affairs Plan,100
+Merced,2023,Workers' Compensation Health Claim,355
+Modoc,2023,Blue Cross/Blue Shield,59
+Modoc,2023,Commercial Insurance Company,16
+Modoc,2023,Health Maintenance Organization,2
+Modoc,2023,Health Maintenance Organization (HMO) Medicare Risk,5
+Modoc,2023,Medi-Cal,132
+Modoc,2023,Medicare Part B,196
+Modoc,2023,Other Non-federal Programs,3
+Modoc,2023,Preferred Provider Organization (PPO),27
+Modoc,2023,Self Pay,6
+Modoc,2023,Veterans Affairs Plan,3
+Modoc,2023,Workers' Compensation Health Claim,1
+Mono,2023,Blue Cross/Blue Shield,385
+Mono,2023,CHAMPUS (TRICARE),2
+Mono,2023,Commercial Insurance Company,135
+Mono,2023,Health Maintenance Organization,9
+Mono,2023,Health Maintenance Organization (HMO) Medicare Risk,2
+Mono,2023,Medi-Cal,263
+Mono,2023,Medicare Part B,283
+Mono,2023,Other Federal Program,7
+Mono,2023,Point of Service (POS),1
+Mono,2023,Preferred Provider Organization (PPO),85
+Mono,2023,Self Pay,9
+Mono,2023,Workers' Compensation Health Claim,55
+Monterey,2023,Blue Cross/Blue Shield,1657
+Monterey,2023,CHAMPUS (TRICARE),56
+Monterey,2023,Commercial Insurance Company,2112
+Monterey,2023,Exclusive Provider Organization (EPO),49
+Monterey,2023,Health Maintenance Organization,622
+Monterey,2023,Health Maintenance Organization (HMO) Medicare Risk,708
+Monterey,2023,Invalid/Blank,1
+Monterey,2023,Medi-Cal,5391
+Monterey,2023,Medicare Part B,7429
+Monterey,2023,Other,48
+Monterey,2023,Other Federal Program,313
+Monterey,2023,Other Non-federal Programs,233
+Monterey,2023,Point of Service (POS),56
+Monterey,2023,Preferred Provider Organization (PPO),1995
+Monterey,2023,Self Pay,171
+Monterey,2023,Veterans Affairs Plan,57
+Monterey,2023,Workers' Compensation Health Claim,168
+Napa,2023,Blue Cross/Blue Shield,109
+Napa,2023,CHAMPUS (TRICARE),29
+Napa,2023,Commercial Insurance Company,120
+Napa,2023,Exclusive Provider Organization (EPO),65
+Napa,2023,Health Maintenance Organization,2098
+Napa,2023,Health Maintenance Organization (HMO) Medicare Risk,2280
+Napa,2023,Invalid/Blank,1
+Napa,2023,Medi-Cal,2751
+Napa,2023,Medicare Part B,4193
+Napa,2023,Other,94
+Napa,2023,Other Federal Program,7
+Napa,2023,Other Non-federal Programs,51
+Napa,2023,Point of Service (POS),129
+Napa,2023,Preferred Provider Organization (PPO),3056
+Napa,2023,Self Pay,110
+Napa,2023,Veterans Affairs Plan,19
+Napa,2023,Workers' Compensation Health Claim,111
+Nevada,2023,Blue Cross/Blue Shield,2060
+Nevada,2023,CHAMPUS (TRICARE),40
+Nevada,2023,Commercial Insurance Company,486
+Nevada,2023,Exclusive Provider Organization (EPO),13
+Nevada,2023,Health Maintenance Organization,296
+Nevada,2023,Health Maintenance Organization (HMO) Medicare Risk,627
+Nevada,2023,Invalid/Blank,2
+Nevada,2023,Medi-Cal,880
+Nevada,2023,Medicare Part B,3103
+Nevada,2023,Other,8
+Nevada,2023,Other Federal Program,1
+Nevada,2023,Other Non-federal Programs,22
+Nevada,2023,Point of Service (POS),7
+Nevada,2023,Preferred Provider Organization (PPO),899
+Nevada,2023,Self Pay,38
+Nevada,2023,Title V,2
+Nevada,2023,Veterans Affairs Plan,36
+Nevada,2023,Workers' Compensation Health Claim,80
+Orange,2023,Blue Cross/Blue Shield,3811
+Orange,2023,CHAMPUS (TRICARE),333
+Orange,2023,Commercial Insurance Company,858
+Orange,2023,Exclusive Provider Organization (EPO),1261
+Orange,2023,Health Maintenance Organization,27100
+Orange,2023,Health Maintenance Organization (HMO) Medicare Risk,29068
+Orange,2023,Invalid/Blank,7
+Orange,2023,Medi-Cal,25254
+Orange,2023,Medicare Part A,1
+Orange,2023,Medicare Part B,29355
+Orange,2023,Other,271
+Orange,2023,Other Federal Program,32
+Orange,2023,Other Non-federal Programs,113
+Orange,2023,Point of Service (POS),2913
+Orange,2023,Preferred Provider Organization (PPO),25406
+Orange,2023,Self Pay,597
+Orange,2023,Title V,11
+Orange,2023,Veterans Affairs Plan,138
+Orange,2023,Workers' Compensation Health Claim,1032
+Out of State/Homeless,2023,Automobile Medical,1
+Out of State/Homeless,2023,Blue Cross/Blue Shield,2202
+Out of State/Homeless,2023,CHAMPUS (TRICARE),263
+Out of State/Homeless,2023,Commercial Insurance Company,1226
+Out of State/Homeless,2023,Exclusive Provider Organization (EPO),149
+Out of State/Homeless,2023,Health Maintenance Organization,1306
+Out of State/Homeless,2023,Health Maintenance Organization (HMO) Medicare Risk,1550
+Out of State/Homeless,2023,Invalid/Blank,6
+Out of State/Homeless,2023,Medi-Cal,1516
+Out of State/Homeless,2023,Medicare Part B,7312
+Out of State/Homeless,2023,Other,140
+Out of State/Homeless,2023,Other Federal Program,90
+Out of State/Homeless,2023,Other Non-federal Programs,111
+Out of State/Homeless,2023,Point of Service (POS),288
+Out of State/Homeless,2023,Preferred Provider Organization (PPO),5194
+Out of State/Homeless,2023,Self Pay,904
+Out of State/Homeless,2023,Title V,5
+Out of State/Homeless,2023,Veterans Affairs Plan,60
+Out of State/Homeless,2023,Workers' Compensation Health Claim,306
+Placer,2023,Blue Cross/Blue Shield,1224
+Placer,2023,CHAMPUS (TRICARE),268
+Placer,2023,Commercial Insurance Company,338
+Placer,2023,Exclusive Provider Organization (EPO),103
+Placer,2023,Health Maintenance Organization,5814
+Placer,2023,Health Maintenance Organization (HMO) Medicare Risk,6616
+Placer,2023,Medi-Cal,1807
+Placer,2023,Medicare Part B,6258
+Placer,2023,Other,8
+Placer,2023,Other Federal Program,8
+Placer,2023,Other Non-federal Programs,46
+Placer,2023,Point of Service (POS),11
+Placer,2023,Preferred Provider Organization (PPO),4747
+Placer,2023,Self Pay,164
+Placer,2023,Veterans Affairs Plan,74
+Placer,2023,Workers' Compensation Health Claim,261
+Plumas,2023,Blue Cross/Blue Shield,378
+Plumas,2023,CHAMPUS (TRICARE),12
+Plumas,2023,Commercial Insurance Company,92
+Plumas,2023,Exclusive Provider Organization (EPO),1
+Plumas,2023,Health Maintenance Organization,10
+Plumas,2023,Health Maintenance Organization (HMO) Medicare Risk,19
+Plumas,2023,Medi-Cal,305
+Plumas,2023,Medicare Part B,846
+Plumas,2023,Other Non-federal Programs,3
+Plumas,2023,Point of Service (POS),1
+Plumas,2023,Preferred Provider Organization (PPO),219
+Plumas,2023,Self Pay,8
+Plumas,2023,Veterans Affairs Plan,3
+Plumas,2023,Workers' Compensation Health Claim,20
+Riverside,2023,Automobile Medical,3
+Riverside,2023,Blue Cross/Blue Shield,2008
+Riverside,2023,CHAMPUS (TRICARE),1162
+Riverside,2023,Commercial Insurance Company,1835
+Riverside,2023,Exclusive Provider Organization (EPO),499
+Riverside,2023,Health Maintenance Organization,20238
+Riverside,2023,Health Maintenance Organization (HMO) Medicare Risk,27252
+Riverside,2023,Invalid/Blank,10
+Riverside,2023,Medi-Cal,29856
+Riverside,2023,Medicare Part B,25755
+Riverside,2023,Other,162
+Riverside,2023,Other Federal Program,161
+Riverside,2023,Other Non-federal Programs,559
+Riverside,2023,Point of Service (POS),629
+Riverside,2023,Preferred Provider Organization (PPO),14465
+Riverside,2023,Self Pay,869
+Riverside,2023,Title V,1386
+Riverside,2023,Veterans Affairs Plan,327
+Riverside,2023,Workers' Compensation Health Claim,1102
+Sacramento,2023,Blue Cross/Blue Shield,1892
+Sacramento,2023,CHAMPUS (TRICARE),397
+Sacramento,2023,Commercial Insurance Company,716
+Sacramento,2023,Exclusive Provider Organization (EPO),208
+Sacramento,2023,Health Maintenance Organization,19060
+Sacramento,2023,Health Maintenance Organization (HMO) Medicare Risk,17140
+Sacramento,2023,Invalid/Blank,3
+Sacramento,2023,Medi-Cal,11596
+Sacramento,2023,Medicare Part B,11746
+Sacramento,2023,Other,16
+Sacramento,2023,Other Federal Program,186
+Sacramento,2023,Other Non-federal Programs,720
+Sacramento,2023,Point of Service (POS),39
+Sacramento,2023,Preferred Provider Organization (PPO),10577
+Sacramento,2023,Self Pay,312
+Sacramento,2023,Title V,1
+Sacramento,2023,Veterans Affairs Plan,121
+Sacramento,2023,Workers' Compensation Health Claim,639
+San Benito,2023,Blue Cross/Blue Shield,586
+San Benito,2023,CHAMPUS (TRICARE),25
+San Benito,2023,Commercial Insurance Company,318
+San Benito,2023,Exclusive Provider Organization (EPO),42
+San Benito,2023,Health Maintenance Organization,611
+San Benito,2023,Health Maintenance Organization (HMO) Medicare Risk,106
+San Benito,2023,Medi-Cal,1021
+San Benito,2023,Medicare Part B,1279
+San Benito,2023,Other,12
+San Benito,2023,Point of Service (POS),27
+San Benito,2023,Preferred Provider Organization (PPO),514
+San Benito,2023,Self Pay,21
+San Benito,2023,Title V,1
+San Benito,2023,Veterans Affairs Plan,2
+San Benito,2023,Workers' Compensation Health Claim,40
+San Bernardino,2023,Automobile Medical,1
+San Bernardino,2023,Blue Cross/Blue Shield,2939
+San Bernardino,2023,CHAMPUS (TRICARE),614
+San Bernardino,2023,Commercial Insurance Company,4065
+San Bernardino,2023,Exclusive Provider Organization (EPO),619
+San Bernardino,2023,Health Maintenance Organization,20764
+San Bernardino,2023,Health Maintenance Organization (HMO) Medicare Risk,21191
+San Bernardino,2023,Invalid/Blank,37
+San Bernardino,2023,Medi-Cal,25217
+San Bernardino,2023,Medicare Part B,11252
+San Bernardino,2023,Other,77
+San Bernardino,2023,Other Federal Program,139
+San Bernardino,2023,Other Non-federal Programs,503
+San Bernardino,2023,Point of Service (POS),757
+San Bernardino,2023,Preferred Provider Organization (PPO),8861
+San Bernardino,2023,Self Pay,412
+San Bernardino,2023,Title V,1061
+San Bernardino,2023,Veterans Affairs Plan,236
+San Bernardino,2023,Workers' Compensation Health Claim,1122
+San Diego,2023,Automobile Medical,1
+San Diego,2023,Blue Cross/Blue Shield,12734
+San Diego,2023,CHAMPUS (TRICARE),4883
+San Diego,2023,Commercial Insurance Company,1099
+San Diego,2023,Exclusive Provider Organization (EPO),2036
+San Diego,2023,Health Maintenance Organization,37511
+San Diego,2023,Health Maintenance Organization (HMO) Medicare Risk,40352
+San Diego,2023,Medi-Cal,31487
+San Diego,2023,Medicare Part A,2
+San Diego,2023,Medicare Part B,42475
+San Diego,2023,Other,114
+San Diego,2023,Other Federal Program,133
+San Diego,2023,Other Non-federal Programs,539
+San Diego,2023,Point of Service (POS),4828
+San Diego,2023,Preferred Provider Organization (PPO),28671
+San Diego,2023,Self Pay,8522
+San Diego,2023,Title V,1887
+San Diego,2023,Veterans Affairs Plan,973
+San Diego,2023,Workers' Compensation Health Claim,964
+San Francisco,2023,Blue Cross/Blue Shield,661
+San Francisco,2023,CHAMPUS (TRICARE),68
+San Francisco,2023,Commercial Insurance Company,3353
+San Francisco,2023,Exclusive Provider Organization (EPO),812
+San Francisco,2023,Health Maintenance Organization,11594
+San Francisco,2023,Health Maintenance Organization (HMO) Medicare Risk,7125
+San Francisco,2023,Invalid/Blank,11
+San Francisco,2023,Medi-Cal,10388
+San Francisco,2023,Medicare Part B,10990
+San Francisco,2023,Other,71
+San Francisco,2023,Other Federal Program,49
+San Francisco,2023,Other Non-federal Programs,64
+San Francisco,2023,Point of Service (POS),891
+San Francisco,2023,Preferred Provider Organization (PPO),10943
+San Francisco,2023,Self Pay,1123
+San Francisco,2023,Veterans Affairs Plan,5
+San Francisco,2023,Workers' Compensation Health Claim,215
+San Joaquin,2023,Blue Cross/Blue Shield,1024
+San Joaquin,2023,CHAMPUS (TRICARE),148
+San Joaquin,2023,Commercial Insurance Company,691
+San Joaquin,2023,Exclusive Provider Organization (EPO),361
+San Joaquin,2023,Health Maintenance Organization,10015
+San Joaquin,2023,Health Maintenance Organization (HMO) Medicare Risk,8487
+San Joaquin,2023,Invalid/Blank,13
+San Joaquin,2023,Medi-Cal,10686
+San Joaquin,2023,Medicare Part A,3
+San Joaquin,2023,Medicare Part B,9484
+San Joaquin,2023,Other,83
+San Joaquin,2023,Other Federal Program,357
+San Joaquin,2023,Other Non-federal Programs,356
+San Joaquin,2023,Point of Service (POS),168
+San Joaquin,2023,Preferred Provider Organization (PPO),8906
+San Joaquin,2023,Self Pay,322
+San Joaquin,2023,Title V,33
+San Joaquin,2023,Veterans Affairs Plan,105
+San Joaquin,2023,Workers' Compensation Health Claim,483
+San Luis Obispo,2023,Automobile Medical,1
+San Luis Obispo,2023,Blue Cross/Blue Shield,313
+San Luis Obispo,2023,CHAMPUS (TRICARE),72
+San Luis Obispo,2023,Commercial Insurance Company,830
+San Luis Obispo,2023,Exclusive Provider Organization (EPO),42
+San Luis Obispo,2023,Health Maintenance Organization,1027
+San Luis Obispo,2023,Health Maintenance Organization (HMO) Medicare Risk,1916
+San Luis Obispo,2023,Invalid/Blank,16
+San Luis Obispo,2023,Medi-Cal,1977
+San Luis Obispo,2023,Medicare Part B,7768
+San Luis Obispo,2023,Other,55
+San Luis Obispo,2023,Other Federal Program,44
+San Luis Obispo,2023,Other Non-federal Programs,418
+San Luis Obispo,2023,Point of Service (POS),105
+San Luis Obispo,2023,Preferred Provider Organization (PPO),3819
+San Luis Obispo,2023,Self Pay,78
+San Luis Obispo,2023,Title V,1
+San Luis Obispo,2023,Veterans Affairs Plan,149
+San Luis Obispo,2023,Workers' Compensation Health Claim,112
+San Mateo,2023,Blue Cross/Blue Shield,718
+San Mateo,2023,CHAMPUS (TRICARE),48
+San Mateo,2023,Commercial Insurance Company,8435
+San Mateo,2023,Exclusive Provider Organization (EPO),1180
+San Mateo,2023,Health Maintenance Organization,8665
+San Mateo,2023,Health Maintenance Organization (HMO) Medicare Risk,7504
+San Mateo,2023,Invalid/Blank,4
+San Mateo,2023,Medi-Cal,7023
+San Mateo,2023,Medicare Part B,12458
+San Mateo,2023,Other,56
+San Mateo,2023,Other Federal Program,22
+San Mateo,2023,Other Non-federal Programs,835
+San Mateo,2023,Point of Service (POS),461
+San Mateo,2023,Preferred Provider Organization (PPO),9648
+San Mateo,2023,Self Pay,517
+San Mateo,2023,Veterans Affairs Plan,4
+San Mateo,2023,Workers' Compensation Health Claim,326
+Santa Barbara,2023,Blue Cross/Blue Shield,388
+Santa Barbara,2023,CHAMPUS (TRICARE),399
+Santa Barbara,2023,Commercial Insurance Company,2496
+Santa Barbara,2023,Exclusive Provider Organization (EPO),47
+Santa Barbara,2023,Health Maintenance Organization,430
+Santa Barbara,2023,Health Maintenance Organization (HMO) Medicare Risk,2348
+Santa Barbara,2023,Invalid/Blank,25
+Santa Barbara,2023,Medi-Cal,4105
+Santa Barbara,2023,Medicare Part B,8829
+Santa Barbara,2023,Other,31
+Santa Barbara,2023,Other Federal Program,145
+Santa Barbara,2023,Other Non-federal Programs,171
+Santa Barbara,2023,Point of Service (POS),44
+Santa Barbara,2023,Preferred Provider Organization (PPO),4185
+Santa Barbara,2023,Self Pay,352
+Santa Barbara,2023,Veterans Affairs Plan,140
+Santa Barbara,2023,Workers' Compensation Health Claim,105
+Santa Clara,2023,Automobile Medical,1
+Santa Clara,2023,Blue Cross/Blue Shield,1956
+Santa Clara,2023,CHAMPUS (TRICARE),115
+Santa Clara,2023,Commercial Insurance Company,19439
+Santa Clara,2023,Exclusive Provider Organization (EPO),3118
+Santa Clara,2023,Health Maintenance Organization,23416
+Santa Clara,2023,Health Maintenance Organization (HMO) Medicare Risk,15984
+Santa Clara,2023,Invalid/Blank,2
+Santa Clara,2023,Medi-Cal,24374
+Santa Clara,2023,Medicare Part A,20
+Santa Clara,2023,Medicare Part B,25140
+Santa Clara,2023,Other,186
+Santa Clara,2023,Other Federal Program,33
+Santa Clara,2023,Other Non-federal Programs,529
+Santa Clara,2023,Point of Service (POS),956
+Santa Clara,2023,Preferred Provider Organization (PPO),15601
+Santa Clara,2023,Self Pay,875
+Santa Clara,2023,Title V,322
+Santa Clara,2023,Veterans Affairs Plan,56
+Santa Clara,2023,Workers' Compensation Health Claim,617
+Santa Cruz,2023,Blue Cross/Blue Shield,257
+Santa Cruz,2023,CHAMPUS (TRICARE),62
+Santa Cruz,2023,Commercial Insurance Company,1024
+Santa Cruz,2023,Exclusive Provider Organization (EPO),78
+Santa Cruz,2023,Health Maintenance Organization,4157
+Santa Cruz,2023,Health Maintenance Organization (HMO) Medicare Risk,2132
+Santa Cruz,2023,Medi-Cal,2919
+Santa Cruz,2023,Medicare Part B,9445
+Santa Cruz,2023,Other,15
+Santa Cruz,2023,Other Federal Program,14
+Santa Cruz,2023,Other Non-federal Programs,45
+Santa Cruz,2023,Point of Service (POS),89
+Santa Cruz,2023,Preferred Provider Organization (PPO),4753
+Santa Cruz,2023,Self Pay,200
+Santa Cruz,2023,Veterans Affairs Plan,24
+Santa Cruz,2023,Workers' Compensation Health Claim,111
+Shasta,2023,Blue Cross/Blue Shield,372
+Shasta,2023,CHAMPUS (TRICARE),22
+Shasta,2023,Commercial Insurance Company,55
+Shasta,2023,Exclusive Provider Organization (EPO),10
+Shasta,2023,Health Maintenance Organization,57
+Shasta,2023,Health Maintenance Organization (HMO) Medicare Risk,490
+Shasta,2023,Invalid/Blank,12
+Shasta,2023,Medi-Cal,2836
+Shasta,2023,Medicare Part B,5891
+Shasta,2023,Other,56
+Shasta,2023,Other Federal Program,13
+Shasta,2023,Other Non-federal Programs,123
+Shasta,2023,Point of Service (POS),2
+Shasta,2023,Preferred Provider Organization (PPO),3001
+Shasta,2023,Self Pay,68
+Shasta,2023,Title V,1
+Shasta,2023,Veterans Affairs Plan,170
+Shasta,2023,Workers' Compensation Health Claim,214
+Sierra,2023,Blue Cross/Blue Shield,86
+Sierra,2023,CHAMPUS (TRICARE),1
+Sierra,2023,Commercial Insurance Company,26
+Sierra,2023,Health Maintenance Organization,1
+Sierra,2023,Health Maintenance Organization (HMO) Medicare Risk,2
+Sierra,2023,Medi-Cal,30
+Sierra,2023,Medicare Part B,99
+Sierra,2023,Other Non-federal Programs,1
+Sierra,2023,Preferred Provider Organization (PPO),13
+Sierra,2023,Self Pay,1
+Sierra,2023,Veterans Affairs Plan,1
+Sierra,2023,Workers' Compensation Health Claim,3
+Siskiyou,2023,Automobile Medical,1
+Siskiyou,2023,Blue Cross/Blue Shield,26
+Siskiyou,2023,CHAMPUS (TRICARE),5
+Siskiyou,2023,Commercial Insurance Company,11
+Siskiyou,2023,Exclusive Provider Organization (EPO),7
+Siskiyou,2023,Health Maintenance Organization,32
+Siskiyou,2023,Health Maintenance Organization (HMO) Medicare Risk,60
+Siskiyou,2023,Medi-Cal,1203
+Siskiyou,2023,Medicare Part B,2273
+Siskiyou,2023,Other,12
+Siskiyou,2023,Other Non-federal Programs,39
+Siskiyou,2023,Point of Service (POS),6
+Siskiyou,2023,Preferred Provider Organization (PPO),1159
+Siskiyou,2023,Self Pay,20
+Siskiyou,2023,Veterans Affairs Plan,80
+Siskiyou,2023,Workers' Compensation Health Claim,88
+Solano,2023,Automobile Medical,2
+Solano,2023,Blue Cross/Blue Shield,917
+Solano,2023,CHAMPUS (TRICARE),627
+Solano,2023,Commercial Insurance Company,368
+Solano,2023,Exclusive Provider Organization (EPO),154
+Solano,2023,Health Maintenance Organization,9265
+Solano,2023,Health Maintenance Organization (HMO) Medicare Risk,5303
+Solano,2023,Invalid/Blank,2
+Solano,2023,Medi-Cal,5213
+Solano,2023,Medicare Part B,6337
+Solano,2023,Other,22
+Solano,2023,Other Federal Program,126
+Solano,2023,Other Non-federal Programs,280
+Solano,2023,Point of Service (POS),43
+Solano,2023,Preferred Provider Organization (PPO),2317
+Solano,2023,Self Pay,200
+Solano,2023,Veterans Affairs Plan,20
+Solano,2023,Workers' Compensation Health Claim,435
+Sonoma,2023,Automobile Medical,2
+Sonoma,2023,Blue Cross/Blue Shield,221
+Sonoma,2023,CHAMPUS (TRICARE),169
+Sonoma,2023,Commercial Insurance Company,355
+Sonoma,2023,Exclusive Provider Organization (EPO),221
+Sonoma,2023,Health Maintenance Organization,11253
+Sonoma,2023,Health Maintenance Organization (HMO) Medicare Risk,11766
+Sonoma,2023,Invalid/Blank,1
+Sonoma,2023,Medi-Cal,6494
+Sonoma,2023,Medicare Part B,9876
+Sonoma,2023,Other,41
+Sonoma,2023,Other Federal Program,10
+Sonoma,2023,Other Non-federal Programs,78
+Sonoma,2023,Point of Service (POS),234
+Sonoma,2023,Preferred Provider Organization (PPO),5761
+Sonoma,2023,Self Pay,343
+Sonoma,2023,Veterans Affairs Plan,212
+Sonoma,2023,Workers' Compensation Health Claim,358
+Stanislaus,2023,Blue Cross/Blue Shield,962
+Stanislaus,2023,CHAMPUS (TRICARE),158
+Stanislaus,2023,Commercial Insurance Company,929
+Stanislaus,2023,Exclusive Provider Organization (EPO),406
+Stanislaus,2023,Health Maintenance Organization,6191
+Stanislaus,2023,Health Maintenance Organization (HMO) Medicare Risk,10457
+Stanislaus,2023,Invalid/Blank,4
+Stanislaus,2023,Medi-Cal,10795
+Stanislaus,2023,Medicare Part B,8887
+Stanislaus,2023,Other,32
+Stanislaus,2023,Other Federal Program,123
+Stanislaus,2023,Other Non-federal Programs,44
+Stanislaus,2023,Point of Service (POS),227
+Stanislaus,2023,Preferred Provider Organization (PPO),8039
+Stanislaus,2023,Self Pay,201
+Stanislaus,2023,Title V,146
+Stanislaus,2023,Veterans Affairs Plan,246
+Stanislaus,2023,Workers' Compensation Health Claim,610
+Sutter,2023,Blue Cross/Blue Shield,162
+Sutter,2023,CHAMPUS (TRICARE),39
+Sutter,2023,Commercial Insurance Company,709
+Sutter,2023,Exclusive Provider Organization (EPO),9
+Sutter,2023,Health Maintenance Organization,239
+Sutter,2023,Health Maintenance Organization (HMO) Medicare Risk,308
+Sutter,2023,Medi-Cal,1402
+Sutter,2023,Medicare Part B,2247
+Sutter,2023,Other,1
+Sutter,2023,Other Federal Program,69
+Sutter,2023,Other Non-federal Programs,18
+Sutter,2023,Preferred Provider Organization (PPO),1065
+Sutter,2023,Self Pay,38
+Sutter,2023,Title V,1
+Sutter,2023,Veterans Affairs Plan,19
+Sutter,2023,Workers' Compensation Health Claim,70
+Tehama,2023,Blue Cross/Blue Shield,557
+Tehama,2023,CHAMPUS (TRICARE),10
+Tehama,2023,Commercial Insurance Company,8
+Tehama,2023,Exclusive Provider Organization (EPO),6
+Tehama,2023,Health Maintenance Organization,13
+Tehama,2023,Health Maintenance Organization (HMO) Medicare Risk,340
+Tehama,2023,Medi-Cal,1239
+Tehama,2023,Medicare Part B,1912
+Tehama,2023,Other,7
+Tehama,2023,Other Federal Program,5
+Tehama,2023,Other Non-federal Programs,67
+Tehama,2023,Point of Service (POS),1
+Tehama,2023,Preferred Provider Organization (PPO),811
+Tehama,2023,Self Pay,23
+Tehama,2023,Veterans Affairs Plan,69
+Tehama,2023,Workers' Compensation Health Claim,87
+Trinity,2023,Blue Cross/Blue Shield,64
+Trinity,2023,CHAMPUS (TRICARE),1
+Trinity,2023,Commercial Insurance Company,7
+Trinity,2023,Health Maintenance Organization,69
+Trinity,2023,Health Maintenance Organization (HMO) Medicare Risk,7
+Trinity,2023,Invalid/Blank,1
+Trinity,2023,Medi-Cal,176
+Trinity,2023,Medicare Part B,479
+Trinity,2023,Other,4
+Trinity,2023,Other Non-federal Programs,7
+Trinity,2023,Point of Service (POS),1
+Trinity,2023,Preferred Provider Organization (PPO),118
+Trinity,2023,Self Pay,3
+Trinity,2023,Veterans Affairs Plan,11
+Trinity,2023,Workers' Compensation Health Claim,7
+Tulare,2023,Automobile Medical,1
+Tulare,2023,Blue Cross/Blue Shield,1277
+Tulare,2023,CHAMPUS (TRICARE),198
+Tulare,2023,Commercial Insurance Company,452
+Tulare,2023,Exclusive Provider Organization (EPO),57
+Tulare,2023,Health Maintenance Organization,1675
+Tulare,2023,Health Maintenance Organization (HMO) Medicare Risk,2427
+Tulare,2023,Invalid/Blank,2
+Tulare,2023,Medi-Cal,10841
+Tulare,2023,Medicare Part B,7479
+Tulare,2023,Other,58
+Tulare,2023,Other Federal Program,28
+Tulare,2023,Other Non-federal Programs,6
+Tulare,2023,Point of Service (POS),384
+Tulare,2023,Preferred Provider Organization (PPO),5711
+Tulare,2023,Self Pay,137
+Tulare,2023,Title V,364
+Tulare,2023,Veterans Affairs Plan,98
+Tulare,2023,Workers' Compensation Health Claim,537
+Tuolumne,2023,Automobile Medical,3
+Tuolumne,2023,Blue Cross/Blue Shield,70
+Tuolumne,2023,CHAMPUS (TRICARE),24
+Tuolumne,2023,Commercial Insurance Company,49
+Tuolumne,2023,Exclusive Provider Organization (EPO),13
+Tuolumne,2023,Health Maintenance Organization,122
+Tuolumne,2023,Health Maintenance Organization (HMO) Medicare Risk,293
+Tuolumne,2023,Medi-Cal,947
+Tuolumne,2023,Medicare Part B,3536
+Tuolumne,2023,Other,13
+Tuolumne,2023,Other Federal Program,69
+Tuolumne,2023,Other Non-federal Programs,81
+Tuolumne,2023,Point of Service (POS),9
+Tuolumne,2023,Preferred Provider Organization (PPO),1760
+Tuolumne,2023,Self Pay,31
+Tuolumne,2023,Title V,2
+Tuolumne,2023,Veterans Affairs Plan,92
+Tuolumne,2023,Workers' Compensation Health Claim,118
+Ventura,2023,Blue Cross/Blue Shield,5455
+Ventura,2023,CHAMPUS (TRICARE),371
+Ventura,2023,Commercial Insurance Company,358
+Ventura,2023,Exclusive Provider Organization (EPO),335
+Ventura,2023,Health Maintenance Organization,4435
+Ventura,2023,Health Maintenance Organization (HMO) Medicare Risk,5091
+Ventura,2023,Medi-Cal,8844
+Ventura,2023,Medicare Part A,1
+Ventura,2023,Medicare Part B,14921
+Ventura,2023,Other,168
+Ventura,2023,Other Federal Program,46
+Ventura,2023,Other Non-federal Programs,127
+Ventura,2023,Point of Service (POS),59
+Ventura,2023,Preferred Provider Organization (PPO),8252
+Ventura,2023,Self Pay,597
+Ventura,2023,Title V,5
+Ventura,2023,Veterans Affairs Plan,48
+Ventura,2023,Workers' Compensation Health Claim,407
+Yolo,2023,Blue Cross/Blue Shield,779
+Yolo,2023,CHAMPUS (TRICARE),80
+Yolo,2023,Commercial Insurance Company,361
+Yolo,2023,Exclusive Provider Organization (EPO),28
+Yolo,2023,Health Maintenance Organization,3510
+Yolo,2023,Health Maintenance Organization (HMO) Medicare Risk,3608
+Yolo,2023,Medi-Cal,2665
+Yolo,2023,Medicare Part B,3341
+Yolo,2023,Other,5
+Yolo,2023,Other Federal Program,1
+Yolo,2023,Other Non-federal Programs,6
+Yolo,2023,Point of Service (POS),5
+Yolo,2023,Preferred Provider Organization (PPO),2335
+Yolo,2023,Self Pay,53
+Yolo,2023,Veterans Affairs Plan,10
+Yolo,2023,Workers' Compensation Health Claim,151
+Yuba,2023,Automobile Medical,1
+Yuba,2023,Blue Cross/Blue Shield,90
+Yuba,2023,CHAMPUS (TRICARE),187
+Yuba,2023,Commercial Insurance Company,423
+Yuba,2023,Exclusive Provider Organization (EPO),4
+Yuba,2023,Health Maintenance Organization,417
+Yuba,2023,Health Maintenance Organization (HMO) Medicare Risk,326
+Yuba,2023,Medi-Cal,1210
+Yuba,2023,Medicare Part B,1515
+Yuba,2023,Other Federal Program,67
+Yuba,2023,Other Non-federal Programs,20
+Yuba,2023,Preferred Provider Organization (PPO),656
+Yuba,2023,Self Pay,36
+Yuba,2023,Veterans Affairs Plan,33
+Yuba,2023,Workers' Compensation Health Claim,51

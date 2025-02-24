@@ -1,0 +1,684 @@
+patcnty1,serv_y,disp1,Encounters
+Alameda,2023,Acute Care,322
+Alameda,2023,Childrens_or_Cancer,3
+Alameda,2023,Critical Access Hospital,1
+Alameda,2023,Died,9
+Alameda,2023,Home Health Service,2425
+Alameda,2023,Hospice_Care,39
+Alameda,2023,Invalid/Blank,5
+Alameda,2023,Left Against Medical Advice,17
+Alameda,2023,Not_Defined_Elsewhere,31
+Alameda,2023,Other,1
+Alameda,2023,Prison/Jail,33
+Alameda,2023,Psychiatric_Care,3
+Alameda,2023,Rehab,21
+Alameda,2023,Residential Care facility,15
+Alameda,2023,Routine (Home),96588
+Alameda,2023,Skilled Nursing/Intermediate Care (SN/IC),300
+Alpine,2023,Routine (Home),40
+Amador,2023,Acute Care,9
+Amador,2023,Home Health Service,40
+Amador,2023,Invalid/Blank,1
+Amador,2023,Not_Defined_Elsewhere,1
+Amador,2023,Prison/Jail,290
+Amador,2023,Rehab,2
+Amador,2023,Residential Care facility,2
+Amador,2023,Routine (Home),3451
+Amador,2023,Skilled Nursing/Intermediate Care (SN/IC),7
+Butte,2023,Acute Care,14
+Butte,2023,Home Health Service,502
+Butte,2023,Hospice_Care,4
+Butte,2023,Left Against Medical Advice,4
+Butte,2023,Other,11
+Butte,2023,Rehab,3
+Butte,2023,Residential Care facility,4
+Butte,2023,Routine (Home),22134
+Butte,2023,Skilled Nursing/Intermediate Care (SN/IC),19
+Calaveras,2023,Acute Care,9
+Calaveras,2023,Home Health Service,87
+Calaveras,2023,Left Against Medical Advice,10
+Calaveras,2023,Other,2
+Calaveras,2023,Rehab,1
+Calaveras,2023,Routine (Home),5594
+Calaveras,2023,Skilled Nursing/Intermediate Care (SN/IC),15
+Colusa,2023,Home Health Service,16
+Colusa,2023,Other,1
+Colusa,2023,Residential Care facility,1
+Colusa,2023,Routine (Home),1724
+Colusa,2023,Skilled Nursing/Intermediate Care (SN/IC),5
+Contra Costa,2023,Acute Care,161
+Contra Costa,2023,Childrens_or_Cancer,15
+Contra Costa,2023,Died,6
+Contra Costa,2023,Home Health Service,2239
+Contra Costa,2023,Hospice_Care,29
+Contra Costa,2023,Invalid/Blank,5
+Contra Costa,2023,Left Against Medical Advice,25
+Contra Costa,2023,Not_Defined_Elsewhere,16
+Contra Costa,2023,Other,9
+Contra Costa,2023,Prison/Jail,26
+Contra Costa,2023,Psychiatric_Care,2
+Contra Costa,2023,Rehab,8
+Contra Costa,2023,Residential Care facility,8
+Contra Costa,2023,Routine (Home),55650
+Contra Costa,2023,Skilled Nursing/Intermediate Care (SN/IC),242
+Del Norte,2023,Acute Care,8
+Del Norte,2023,Home Health Service,7
+Del Norte,2023,Hospice_Care,1
+Del Norte,2023,Left Against Medical Advice,2
+Del Norte,2023,Prison/Jail,44
+Del Norte,2023,Routine (Home),1685
+Del Norte,2023,Skilled Nursing/Intermediate Care (SN/IC),7
+El Dorado,2023,Acute Care,34
+El Dorado,2023,Home Health Service,444
+El Dorado,2023,Hospice_Care,8
+El Dorado,2023,Invalid/Blank,1
+El Dorado,2023,Left Against Medical Advice,18
+El Dorado,2023,Not_Defined_Elsewhere,5
+El Dorado,2023,Other,6
+El Dorado,2023,Prison/Jail,3
+El Dorado,2023,Rehab,2
+El Dorado,2023,Routine (Home),16404
+El Dorado,2023,Skilled Nursing/Intermediate Care (SN/IC),40
+Fresno,2023,Acute Care,368
+Fresno,2023,Childrens_or_Cancer,5
+Fresno,2023,Critical Access Hospital,1
+Fresno,2023,Died,2
+Fresno,2023,Disaster_Care_Site,1
+Fresno,2023,Home Health Service,675
+Fresno,2023,Hospice_Care,35
+Fresno,2023,Left Against Medical Advice,240
+Fresno,2023,Not_Defined_Elsewhere,20
+Fresno,2023,Other,17
+Fresno,2023,Prison/Jail,230
+Fresno,2023,Psychiatric_Care,41
+Fresno,2023,Rehab,85
+Fresno,2023,Residential Care facility,50
+Fresno,2023,Routine (Home),76057
+Fresno,2023,Skilled Nursing/Intermediate Care (SN/IC),275
+Glenn,2023,Acute Care,3
+Glenn,2023,Home Health Service,78
+Glenn,2023,Other,2
+Glenn,2023,Rehab,1
+Glenn,2023,Residential Care facility,1
+Glenn,2023,Routine (Home),2714
+Glenn,2023,Skilled Nursing/Intermediate Care (SN/IC),4
+Humboldt,2023,Acute Care,16
+Humboldt,2023,Critical Access Hospital,2
+Humboldt,2023,Home Health Service,60
+Humboldt,2023,Hospice_Care,3
+Humboldt,2023,Invalid/Blank,1
+Humboldt,2023,Left Against Medical Advice,14
+Humboldt,2023,Not_Defined_Elsewhere,3
+Humboldt,2023,Prison/Jail,4
+Humboldt,2023,Psychiatric_Care,3
+Humboldt,2023,Rehab,4
+Humboldt,2023,Residential Care facility,3
+Humboldt,2023,Routine (Home),15322
+Humboldt,2023,Skilled Nursing/Intermediate Care (SN/IC),24
+Imperial,2023,Acute Care,9
+Imperial,2023,Childrens_or_Cancer,1
+Imperial,2023,Home Health Service,37
+Imperial,2023,Hospice_Care,6
+Imperial,2023,Left Against Medical Advice,3
+Imperial,2023,Not_Defined_Elsewhere,3
+Imperial,2023,Other,3
+Imperial,2023,Prison/Jail,178
+Imperial,2023,Rehab,5
+Imperial,2023,Residential Care facility,14
+Imperial,2023,Routine (Home),12248
+Imperial,2023,Skilled Nursing/Intermediate Care (SN/IC),16
+Invalid/Blank,2023,Acute Care,14
+Invalid/Blank,2023,Childrens_or_Cancer,1
+Invalid/Blank,2023,Critical Access Hospital,25
+Invalid/Blank,2023,Died,1
+Invalid/Blank,2023,Disaster_Care_Site,2
+Invalid/Blank,2023,Home Health Service,134
+Invalid/Blank,2023,Hospice_Care,1
+Invalid/Blank,2023,Invalid/Blank,2
+Invalid/Blank,2023,Left Against Medical Advice,37
+Invalid/Blank,2023,Not_Defined_Elsewhere,7
+Invalid/Blank,2023,Prison/Jail,122
+Invalid/Blank,2023,Psychiatric_Care,9
+Invalid/Blank,2023,Residential Care facility,2
+Invalid/Blank,2023,Routine (Home),7666
+Invalid/Blank,2023,Skilled Nursing/Intermediate Care (SN/IC),12
+Inyo,2023,Acute Care,6
+Inyo,2023,Home Health Service,3
+Inyo,2023,Hospice_Care,1
+Inyo,2023,Rehab,1
+Inyo,2023,Residential Care facility,2
+Inyo,2023,Routine (Home),1842
+Inyo,2023,Skilled Nursing/Intermediate Care (SN/IC),2
+Kern,2023,Acute Care,32
+Kern,2023,Childrens_or_Cancer,4
+Kern,2023,Died,1
+Kern,2023,Home Health Service,379
+Kern,2023,Hospice_Care,21
+Kern,2023,Invalid/Blank,10
+Kern,2023,Left Against Medical Advice,45
+Kern,2023,Not_Defined_Elsewhere,20
+Kern,2023,Other,15
+Kern,2023,Prison/Jail,584
+Kern,2023,Psychiatric_Care,2
+Kern,2023,Rehab,59
+Kern,2023,Residential Care facility,2
+Kern,2023,Routine (Home),47059
+Kern,2023,Skilled Nursing/Intermediate Care (SN/IC),141
+Kings,2023,Acute Care,29
+Kings,2023,Home Health Service,44
+Kings,2023,Invalid/Blank,1
+Kings,2023,Left Against Medical Advice,3
+Kings,2023,Not_Defined_Elsewhere,1
+Kings,2023,Other,8
+Kings,2023,Prison/Jail,615
+Kings,2023,Psychiatric_Care,2
+Kings,2023,Rehab,10
+Kings,2023,Residential Care facility,1
+Kings,2023,Routine (Home),9487
+Kings,2023,Skilled Nursing/Intermediate Care (SN/IC),11
+Lake,2023,Acute Care,10
+Lake,2023,Critical Access Hospital,1
+Lake,2023,Disaster_Care_Site,1
+Lake,2023,Home Health Service,27
+Lake,2023,Hospice_Care,1
+Lake,2023,Invalid/Blank,6
+Lake,2023,Left Against Medical Advice,3
+Lake,2023,Not_Defined_Elsewhere,2
+Lake,2023,Other,2
+Lake,2023,Prison/Jail,2
+Lake,2023,Rehab,1
+Lake,2023,Residential Care facility,2
+Lake,2023,Routine (Home),8285
+Lake,2023,Skilled Nursing/Intermediate Care (SN/IC),12
+Lassen,2023,Acute Care,1
+Lassen,2023,Home Health Service,6
+Lassen,2023,Hospice_Care,1
+Lassen,2023,Prison/Jail,23
+Lassen,2023,Rehab,1
+Lassen,2023,Routine (Home),1036
+Los Angeles,2023,Acute Care,1757
+Los Angeles,2023,Childrens_or_Cancer,67
+Los Angeles,2023,Critical Access Hospital,4
+Los Angeles,2023,Died,5
+Los Angeles,2023,Disaster_Care_Site,50
+Los Angeles,2023,Home Health Service,11099
+Los Angeles,2023,Hospice_Care,130
+Los Angeles,2023,Invalid/Blank,110
+Los Angeles,2023,Left Against Medical Advice,362
+Los Angeles,2023,Not_Defined_Elsewhere,88
+Los Angeles,2023,Other,23
+Los Angeles,2023,Prison/Jail,150
+Los Angeles,2023,Psychiatric_Care,21
+Los Angeles,2023,Rehab,80
+Los Angeles,2023,Residential Care facility,134
+Los Angeles,2023,Routine (Home),482673
+Los Angeles,2023,Skilled Nursing/Intermediate Care (SN/IC),1466
+Madera,2023,Acute Care,63
+Madera,2023,Childrens_or_Cancer,3
+Madera,2023,Critical Access Hospital,1
+Madera,2023,Died,1
+Madera,2023,Home Health Service,79
+Madera,2023,Hospice_Care,4
+Madera,2023,Invalid/Blank,3
+Madera,2023,Left Against Medical Advice,19
+Madera,2023,Not_Defined_Elsewhere,3
+Madera,2023,Other,3
+Madera,2023,Prison/Jail,204
+Madera,2023,Psychiatric_Care,6
+Madera,2023,Rehab,9
+Madera,2023,Residential Care facility,6
+Madera,2023,Routine (Home),10898
+Madera,2023,Skilled Nursing/Intermediate Care (SN/IC),32
+Marin,2023,Acute Care,61
+Marin,2023,Died,1
+Marin,2023,Home Health Service,751
+Marin,2023,Hospice_Care,15
+Marin,2023,Left Against Medical Advice,3
+Marin,2023,Not_Defined_Elsewhere,6
+Marin,2023,Prison/Jail,183
+Marin,2023,Psychiatric_Care,2
+Marin,2023,Rehab,8
+Marin,2023,Residential Care facility,9
+Marin,2023,Routine (Home),18160
+Marin,2023,Skilled Nursing/Intermediate Care (SN/IC),52
+Mariposa,2023,Acute Care,1
+Mariposa,2023,Disaster_Care_Site,1
+Mariposa,2023,Home Health Service,13
+Mariposa,2023,Prison/Jail,1
+Mariposa,2023,Rehab,1
+Mariposa,2023,Residential Care facility,1
+Mariposa,2023,Routine (Home),1481
+Mariposa,2023,Skilled Nursing/Intermediate Care (SN/IC),1
+Mendocino,2023,Acute Care,6
+Mendocino,2023,Home Health Service,51
+Mendocino,2023,Hospice_Care,2
+Mendocino,2023,Left Against Medical Advice,1
+Mendocino,2023,Not_Defined_Elsewhere,1
+Mendocino,2023,Other,9
+Mendocino,2023,Prison/Jail,2
+Mendocino,2023,Routine (Home),10348
+Mendocino,2023,Skilled Nursing/Intermediate Care (SN/IC),10
+Merced,2023,Acute Care,17
+Merced,2023,Died,1
+Merced,2023,Home Health Service,235
+Merced,2023,Hospice_Care,6
+Merced,2023,Left Against Medical Advice,12
+Merced,2023,Not_Defined_Elsewhere,1
+Merced,2023,Prison/Jail,4
+Merced,2023,Psychiatric_Care,6
+Merced,2023,Rehab,15
+Merced,2023,Residential Care facility,2
+Merced,2023,Routine (Home),18943
+Merced,2023,Skilled Nursing/Intermediate Care (SN/IC),56
+Modoc,2023,Home Health Service,1
+Modoc,2023,Hospice_Care,1
+Modoc,2023,Rehab,1
+Modoc,2023,Routine (Home),446
+Modoc,2023,Skilled Nursing/Intermediate Care (SN/IC),1
+Mono,2023,Acute Care,2
+Mono,2023,Home Health Service,1
+Mono,2023,Left Against Medical Advice,1
+Mono,2023,Routine (Home),1231
+Mono,2023,Skilled Nursing/Intermediate Care (SN/IC),1
+Monterey,2023,Acute Care,26
+Monterey,2023,Childrens_or_Cancer,3
+Monterey,2023,Home Health Service,152
+Monterey,2023,Not_Defined_Elsewhere,3
+Monterey,2023,Other,1
+Monterey,2023,Prison/Jail,400
+Monterey,2023,Psychiatric_Care,1
+Monterey,2023,Rehab,1
+Monterey,2023,Residential Care facility,6
+Monterey,2023,Routine (Home),20445
+Monterey,2023,Skilled Nursing/Intermediate Care (SN/IC),28
+Napa,2023,Acute Care,21
+Napa,2023,Died,1
+Napa,2023,Home Health Service,175
+Napa,2023,Hospice_Care,7
+Napa,2023,Invalid/Blank,1
+Napa,2023,Left Against Medical Advice,5
+Napa,2023,Not_Defined_Elsewhere,3
+Napa,2023,Other,6
+Napa,2023,Prison/Jail,24
+Napa,2023,Psychiatric_Care,23
+Napa,2023,Rehab,1
+Napa,2023,Residential Care facility,2
+Napa,2023,Routine (Home),14907
+Napa,2023,Skilled Nursing/Intermediate Care (SN/IC),47
+Nevada,2023,Acute Care,8
+Nevada,2023,Childrens_or_Cancer,2
+Nevada,2023,Critical Access Hospital,1
+Nevada,2023,Home Health Service,208
+Nevada,2023,Hospice_Care,1
+Nevada,2023,Left Against Medical Advice,3
+Nevada,2023,Not_Defined_Elsewhere,1
+Nevada,2023,Other,9
+Nevada,2023,Prison/Jail,2
+Nevada,2023,Psychiatric_Care,1
+Nevada,2023,Routine (Home),8335
+Nevada,2023,Skilled Nursing/Intermediate Care (SN/IC),29
+Orange,2023,Acute Care,175
+Orange,2023,Childrens_or_Cancer,9
+Orange,2023,Critical Access Hospital,2
+Orange,2023,Died,3
+Orange,2023,Home Health Service,7721
+Orange,2023,Hospice_Care,142
+Orange,2023,Invalid/Blank,9
+Orange,2023,Left Against Medical Advice,168
+Orange,2023,Not_Defined_Elsewhere,83
+Orange,2023,Prison/Jail,55
+Orange,2023,Psychiatric_Care,15
+Orange,2023,Rehab,65
+Orange,2023,Residential Care facility,28
+Orange,2023,Routine (Home),138347
+Orange,2023,Skilled Nursing/Intermediate Care (SN/IC),739
+Out of State/Homeless,2023,Acute Care,49
+Out of State/Homeless,2023,Childrens_or_Cancer,3
+Out of State/Homeless,2023,Critical Access Hospital,2
+Out of State/Homeless,2023,Died,3
+Out of State/Homeless,2023,Home Health Service,406
+Out of State/Homeless,2023,Hospice_Care,13
+Out of State/Homeless,2023,Invalid/Blank,5
+Out of State/Homeless,2023,Left Against Medical Advice,71
+Out of State/Homeless,2023,Not_Defined_Elsewhere,21
+Out of State/Homeless,2023,Other,5
+Out of State/Homeless,2023,Prison/Jail,24
+Out of State/Homeless,2023,Psychiatric_Care,18
+Out of State/Homeless,2023,Rehab,7
+Out of State/Homeless,2023,Residential Care facility,26
+Out of State/Homeless,2023,Routine (Home),21919
+Out of State/Homeless,2023,Skilled Nursing/Intermediate Care (SN/IC),57
+Placer,2023,Acute Care,59
+Placer,2023,Childrens_or_Cancer,1
+Placer,2023,Home Health Service,812
+Placer,2023,Hospice_Care,6
+Placer,2023,Invalid/Blank,3
+Placer,2023,Left Against Medical Advice,5
+Placer,2023,Not_Defined_Elsewhere,6
+Placer,2023,Other,7
+Placer,2023,Rehab,6
+Placer,2023,Residential Care facility,3
+Placer,2023,Routine (Home),26730
+Placer,2023,Skilled Nursing/Intermediate Care (SN/IC),109
+Plumas,2023,Acute Care,2
+Plumas,2023,Home Health Service,8
+Plumas,2023,Other,2
+Plumas,2023,Prison/Jail,1
+Plumas,2023,Routine (Home),1903
+Plumas,2023,Skilled Nursing/Intermediate Care (SN/IC),1
+Riverside,2023,Acute Care,261
+Riverside,2023,Childrens_or_Cancer,7
+Riverside,2023,Died,2
+Riverside,2023,Home Health Service,3890
+Riverside,2023,Hospice_Care,88
+Riverside,2023,Invalid/Blank,6
+Riverside,2023,Left Against Medical Advice,51
+Riverside,2023,Not_Defined_Elsewhere,14
+Riverside,2023,Other,22
+Riverside,2023,Prison/Jail,510
+Riverside,2023,Psychiatric_Care,4
+Riverside,2023,Rehab,75
+Riverside,2023,Residential Care facility,481
+Riverside,2023,Routine (Home),122451
+Riverside,2023,Skilled Nursing/Intermediate Care (SN/IC),416
+Sacramento,2023,Acute Care,174
+Sacramento,2023,Childrens_or_Cancer,2
+Sacramento,2023,Died,1
+Sacramento,2023,Home Health Service,2008
+Sacramento,2023,Hospice_Care,15
+Sacramento,2023,Invalid/Blank,7
+Sacramento,2023,Left Against Medical Advice,23
+Sacramento,2023,Not_Defined_Elsewhere,8
+Sacramento,2023,Other,4
+Sacramento,2023,Prison/Jail,345
+Sacramento,2023,Psychiatric_Care,1
+Sacramento,2023,Rehab,10
+Sacramento,2023,Residential Care facility,5
+Sacramento,2023,Routine (Home),72548
+Sacramento,2023,Skilled Nursing/Intermediate Care (SN/IC),218
+San Benito,2023,Acute Care,1
+San Benito,2023,Home Health Service,36
+San Benito,2023,Hospice_Care,1
+San Benito,2023,Other,1
+San Benito,2023,Residential Care facility,3
+San Benito,2023,Routine (Home),4559
+San Benito,2023,Skilled Nursing/Intermediate Care (SN/IC),4
+San Bernardino,2023,Acute Care,97
+San Bernardino,2023,Childrens_or_Cancer,5
+San Bernardino,2023,Critical Access Hospital,2
+San Bernardino,2023,Died,1
+San Bernardino,2023,Home Health Service,1653
+San Bernardino,2023,Hospice_Care,43
+San Bernardino,2023,Invalid/Blank,6
+San Bernardino,2023,Left Against Medical Advice,59
+San Bernardino,2023,Not_Defined_Elsewhere,23
+San Bernardino,2023,Other,13
+San Bernardino,2023,Prison/Jail,354
+San Bernardino,2023,Psychiatric_Care,10
+San Bernardino,2023,Rehab,19
+San Bernardino,2023,Residential Care facility,317
+San Bernardino,2023,Routine (Home),97075
+San Bernardino,2023,Skilled Nursing/Intermediate Care (SN/IC),190
+San Diego,2023,Acute Care,119
+San Diego,2023,Childrens_or_Cancer,15
+San Diego,2023,Critical Access Hospital,12
+San Diego,2023,Died,2
+San Diego,2023,Disaster_Care_Site,9
+San Diego,2023,Home Health Service,2332
+San Diego,2023,Hospice_Care,117
+San Diego,2023,Invalid/Blank,9
+San Diego,2023,Left Against Medical Advice,23
+San Diego,2023,Not_Defined_Elsewhere,95
+San Diego,2023,Other,6
+San Diego,2023,Prison/Jail,249
+San Diego,2023,Psychiatric_Care,67
+San Diego,2023,Rehab,38
+San Diego,2023,Residential Care facility,36
+San Diego,2023,Routine (Home),215741
+San Diego,2023,Skilled Nursing/Intermediate Care (SN/IC),341
+San Francisco,2023,Acute Care,182
+San Francisco,2023,Childrens_or_Cancer,3
+San Francisco,2023,Critical Access Hospital,3
+San Francisco,2023,Home Health Service,613
+San Francisco,2023,Hospice_Care,28
+San Francisco,2023,Left Against Medical Advice,26
+San Francisco,2023,Not_Defined_Elsewhere,59
+San Francisco,2023,Other,2
+San Francisco,2023,Prison/Jail,13
+San Francisco,2023,Psychiatric_Care,9
+San Francisco,2023,Rehab,16
+San Francisco,2023,Residential Care facility,14
+San Francisco,2023,Routine (Home),57202
+San Francisco,2023,Skilled Nursing/Intermediate Care (SN/IC),193
+San Joaquin,2023,Acute Care,69
+San Joaquin,2023,Childrens_or_Cancer,3
+San Joaquin,2023,Home Health Service,481
+San Joaquin,2023,Hospice_Care,18
+San Joaquin,2023,Invalid/Blank,3
+San Joaquin,2023,Left Against Medical Advice,22
+San Joaquin,2023,Not_Defined_Elsewhere,13
+San Joaquin,2023,Other,6
+San Joaquin,2023,Prison/Jail,460
+San Joaquin,2023,Psychiatric_Care,4
+San Joaquin,2023,Rehab,21
+San Joaquin,2023,Residential Care facility,7
+San Joaquin,2023,Routine (Home),50444
+San Joaquin,2023,Skilled Nursing/Intermediate Care (SN/IC),174
+San Luis Obispo,2023,Acute Care,50
+San Luis Obispo,2023,Childrens_or_Cancer,4
+San Luis Obispo,2023,Home Health Service,305
+San Luis Obispo,2023,Hospice_Care,11
+San Luis Obispo,2023,Invalid/Blank,1
+San Luis Obispo,2023,Left Against Medical Advice,30
+San Luis Obispo,2023,Not_Defined_Elsewhere,3
+San Luis Obispo,2023,Other,1
+San Luis Obispo,2023,Prison/Jail,20
+San Luis Obispo,2023,Psychiatric_Care,15
+San Luis Obispo,2023,Rehab,7
+San Luis Obispo,2023,Residential Care facility,1
+San Luis Obispo,2023,Routine (Home),18257
+San Luis Obispo,2023,Skilled Nursing/Intermediate Care (SN/IC),38
+San Mateo,2023,Acute Care,112
+San Mateo,2023,Childrens_or_Cancer,7
+San Mateo,2023,Home Health Service,902
+San Mateo,2023,Hospice_Care,16
+San Mateo,2023,Invalid/Blank,1
+San Mateo,2023,Left Against Medical Advice,7
+San Mateo,2023,Not_Defined_Elsewhere,8
+San Mateo,2023,Prison/Jail,8
+San Mateo,2023,Rehab,5
+San Mateo,2023,Residential Care facility,4
+San Mateo,2023,Routine (Home),56737
+San Mateo,2023,Skilled Nursing/Intermediate Care (SN/IC),97
+Santa Barbara,2023,Acute Care,69
+Santa Barbara,2023,Childrens_or_Cancer,1
+Santa Barbara,2023,Home Health Service,921
+Santa Barbara,2023,Hospice_Care,25
+Santa Barbara,2023,Left Against Medical Advice,27
+Santa Barbara,2023,Not_Defined_Elsewhere,12
+Santa Barbara,2023,Other,3
+Santa Barbara,2023,Prison/Jail,11
+Santa Barbara,2023,Psychiatric_Care,62
+Santa Barbara,2023,Rehab,25
+Santa Barbara,2023,Residential Care facility,8
+Santa Barbara,2023,Routine (Home),22907
+Santa Barbara,2023,Skilled Nursing/Intermediate Care (SN/IC),169
+Santa Clara,2023,Acute Care,66
+Santa Clara,2023,Childrens_or_Cancer,6
+Santa Clara,2023,Critical Access Hospital,1
+Santa Clara,2023,Died,1
+Santa Clara,2023,Home Health Service,1727
+Santa Clara,2023,Hospice_Care,30
+Santa Clara,2023,Invalid/Blank,3
+Santa Clara,2023,Left Against Medical Advice,17
+Santa Clara,2023,Not_Defined_Elsewhere,15
+Santa Clara,2023,Other,6
+Santa Clara,2023,Prison/Jail,40
+Santa Clara,2023,Psychiatric_Care,8
+Santa Clara,2023,Rehab,14
+Santa Clara,2023,Residential Care facility,45
+Santa Clara,2023,Routine (Home),130507
+Santa Clara,2023,Skilled Nursing/Intermediate Care (SN/IC),254
+Santa Cruz,2023,Acute Care,13
+Santa Cruz,2023,Home Health Service,495
+Santa Cruz,2023,Hospice_Care,7
+Santa Cruz,2023,Invalid/Blank,2
+Santa Cruz,2023,Left Against Medical Advice,5
+Santa Cruz,2023,Not_Defined_Elsewhere,6
+Santa Cruz,2023,Prison/Jail,1
+Santa Cruz,2023,Psychiatric_Care,1
+Santa Cruz,2023,Rehab,4
+Santa Cruz,2023,Residential Care facility,2
+Santa Cruz,2023,Routine (Home),24738
+Santa Cruz,2023,Skilled Nursing/Intermediate Care (SN/IC),51
+Shasta,2023,Acute Care,16
+Shasta,2023,Critical Access Hospital,1
+Shasta,2023,Home Health Service,66
+Shasta,2023,Hospice_Care,19
+Shasta,2023,Left Against Medical Advice,9
+Shasta,2023,Not_Defined_Elsewhere,3
+Shasta,2023,Prison/Jail,1
+Shasta,2023,Psychiatric_Care,1
+Shasta,2023,Rehab,13
+Shasta,2023,Residential Care facility,5
+Shasta,2023,Routine (Home),13204
+Shasta,2023,Skilled Nursing/Intermediate Care (SN/IC),55
+Sierra,2023,Home Health Service,1
+Sierra,2023,Left Against Medical Advice,1
+Sierra,2023,Other,1
+Sierra,2023,Routine (Home),261
+Siskiyou,2023,Acute Care,7
+Siskiyou,2023,Critical Access Hospital,1
+Siskiyou,2023,Home Health Service,27
+Siskiyou,2023,Hospice_Care,4
+Siskiyou,2023,Left Against Medical Advice,4
+Siskiyou,2023,Not_Defined_Elsewhere,3
+Siskiyou,2023,Prison/Jail,1
+Siskiyou,2023,Rehab,1
+Siskiyou,2023,Routine (Home),4972
+Siskiyou,2023,Skilled Nursing/Intermediate Care (SN/IC),2
+Solano,2023,Acute Care,66
+Solano,2023,Died,1
+Solano,2023,Home Health Service,318
+Solano,2023,Hospice_Care,7
+Solano,2023,Invalid/Blank,2
+Solano,2023,Left Against Medical Advice,8
+Solano,2023,Not_Defined_Elsewhere,10
+Solano,2023,Prison/Jail,279
+Solano,2023,Rehab,4
+Solano,2023,Residential Care facility,2
+Solano,2023,Routine (Home),30858
+Solano,2023,Skilled Nursing/Intermediate Care (SN/IC),76
+Sonoma,2023,Acute Care,77
+Sonoma,2023,Childrens_or_Cancer,1
+Sonoma,2023,Critical Access Hospital,6
+Sonoma,2023,Died,3
+Sonoma,2023,Home Health Service,1095
+Sonoma,2023,Hospice_Care,32
+Sonoma,2023,Invalid/Blank,10
+Sonoma,2023,Left Against Medical Advice,20
+Sonoma,2023,Not_Defined_Elsewhere,22
+Sonoma,2023,Prison/Jail,2
+Sonoma,2023,Psychiatric_Care,3
+Sonoma,2023,Rehab,12
+Sonoma,2023,Residential Care facility,8
+Sonoma,2023,Routine (Home),45943
+Sonoma,2023,Skilled Nursing/Intermediate Care (SN/IC),161
+Stanislaus,2023,Acute Care,19
+Stanislaus,2023,Childrens_or_Cancer,3
+Stanislaus,2023,Critical Access Hospital,3
+Stanislaus,2023,Died,1
+Stanislaus,2023,Home Health Service,296
+Stanislaus,2023,Hospice_Care,11
+Stanislaus,2023,Invalid/Blank,2
+Stanislaus,2023,Left Against Medical Advice,18
+Stanislaus,2023,Not_Defined_Elsewhere,5
+Stanislaus,2023,Other,2
+Stanislaus,2023,Prison/Jail,3
+Stanislaus,2023,Psychiatric_Care,2
+Stanislaus,2023,Rehab,8
+Stanislaus,2023,Residential Care facility,3
+Stanislaus,2023,Routine (Home),47991
+Stanislaus,2023,Skilled Nursing/Intermediate Care (SN/IC),90
+Sutter,2023,Acute Care,3
+Sutter,2023,Home Health Service,72
+Sutter,2023,Hospice_Care,1
+Sutter,2023,Invalid/Blank,1
+Sutter,2023,Other,8
+Sutter,2023,Prison/Jail,1
+Sutter,2023,Rehab,3
+Sutter,2023,Residential Care facility,1
+Sutter,2023,Routine (Home),6287
+Sutter,2023,Skilled Nursing/Intermediate Care (SN/IC),19
+Tehama,2023,Acute Care,3
+Tehama,2023,Home Health Service,55
+Tehama,2023,Hospice_Care,1
+Tehama,2023,Left Against Medical Advice,3
+Tehama,2023,Other,3
+Tehama,2023,Prison/Jail,1
+Tehama,2023,Routine (Home),5082
+Tehama,2023,Skilled Nursing/Intermediate Care (SN/IC),7
+Trinity,2023,Acute Care,1
+Trinity,2023,Home Health Service,3
+Trinity,2023,Hospice_Care,3
+Trinity,2023,Routine (Home),947
+Trinity,2023,Skilled Nursing/Intermediate Care (SN/IC),1
+Tulare,2023,Acute Care,25
+Tulare,2023,Childrens_or_Cancer,2
+Tulare,2023,Home Health Service,229
+Tulare,2023,Hospice_Care,6
+Tulare,2023,Invalid/Blank,1
+Tulare,2023,Left Against Medical Advice,4
+Tulare,2023,Not_Defined_Elsewhere,1
+Tulare,2023,Other,9
+Tulare,2023,Prison/Jail,2
+Tulare,2023,Psychiatric_Care,2
+Tulare,2023,Rehab,29
+Tulare,2023,Residential Care facility,13
+Tulare,2023,Routine (Home),31361
+Tulare,2023,Skilled Nursing/Intermediate Care (SN/IC),48
+Tuolumne,2023,Acute Care,2
+Tuolumne,2023,Childrens_or_Cancer,2
+Tuolumne,2023,Home Health Service,68
+Tuolumne,2023,Hospice_Care,1
+Tuolumne,2023,Invalid/Blank,3
+Tuolumne,2023,Left Against Medical Advice,1
+Tuolumne,2023,Not_Defined_Elsewhere,2
+Tuolumne,2023,Other,10
+Tuolumne,2023,Prison/Jail,93
+Tuolumne,2023,Rehab,2
+Tuolumne,2023,Residential Care facility,2
+Tuolumne,2023,Routine (Home),7037
+Tuolumne,2023,Skilled Nursing/Intermediate Care (SN/IC),9
+Ventura,2023,Acute Care,100
+Ventura,2023,Childrens_or_Cancer,3
+Ventura,2023,Died,2
+Ventura,2023,Home Health Service,1152
+Ventura,2023,Hospice_Care,10
+Ventura,2023,Invalid/Blank,4
+Ventura,2023,Left Against Medical Advice,41
+Ventura,2023,Not_Defined_Elsewhere,4
+Ventura,2023,Other,2
+Ventura,2023,Prison/Jail,6
+Ventura,2023,Rehab,5
+Ventura,2023,Residential Care facility,3
+Ventura,2023,Routine (Home),48153
+Ventura,2023,Skilled Nursing/Intermediate Care (SN/IC),35
+Yolo,2023,Acute Care,17
+Yolo,2023,Home Health Service,172
+Yolo,2023,Hospice_Care,2
+Yolo,2023,Invalid/Blank,1
+Yolo,2023,Left Against Medical Advice,2
+Yolo,2023,Not_Defined_Elsewhere,1
+Yolo,2023,Prison/Jail,2
+Yolo,2023,Residential Care facility,3
+Yolo,2023,Routine (Home),16711
+Yolo,2023,Skilled Nursing/Intermediate Care (SN/IC),27
+Yuba,2023,Acute Care,1
+Yuba,2023,Home Health Service,63
+Yuba,2023,Hospice_Care,4
+Yuba,2023,Not_Defined_Elsewhere,1
+Yuba,2023,Other,5
+Yuba,2023,Prison/Jail,5
+Yuba,2023,Routine (Home),4942
+Yuba,2023,Skilled Nursing/Intermediate Care (SN/IC),15
